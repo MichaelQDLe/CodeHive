@@ -1,15 +1,25 @@
-# CodeHive
+# 🐝 CodeHive
 
-A desktop application that allows you to use Claude, ChatGPT, and Grok side-by-side in a single window.
+**Your personal AI command center.**  
+Chat with Claude, ChatGPT, and Grok side-by-side — no more tab juggling.
 
-## Features
+<p align="center">
+  <img src="https://github.com/AhmedShaikh0/CodeHive/blob/main/images/tricode.png?raw=true" alt="CodeHive Screenshot" width="800"/>
+</p>
 
-- View all three AI services simultaneously in resizable columns
-- Persistent sessions for each service using separate browser partitions
-- Cross-platform support (Windows, macOS, Linux)
-- Built with Electron for native desktop experience
+---
 
-## Installation
+## ✨ Features
+
+- 🖥 **Three AIs, one window** → View Claude, ChatGPT, and Grok simultaneously  
+- 📌 **Persistent sessions** → Stay logged in across restarts (separate partitions per AI)  
+- 🔀 **Resizable columns** → Adjust layouts to your workflow  
+- 🌍 **Cross-platform** → Works on Windows, macOS, and Linux  
+- ⚡ **Electron-based** → Native desktop experience with modern web tech  
+
+---
+
+## 🚀 Installation
 
 To install and run this application locally:
 
@@ -20,7 +30,7 @@ To install and run this application locally:
 
 2. Navigate to the project directory:
    ```
-   cd codehive
+   cd CodeHive
    ```
 
 3. Install dependencies:
